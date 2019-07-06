@@ -1,0 +1,8 @@
+$git init
+git add .
+git status
+git cimmit -m "frist commit by mansi"
+git config --global user.name "your name"
+git config --global user.email your-smansi188@gmail.com
+git remote add origin paste path //for connection
+git push -u origin master  //(origin-URL)
